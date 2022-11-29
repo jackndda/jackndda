@@ -1,16 +1,23 @@
-### Hi there 👋
+# G'day mate 
 
-<!--
-**jackndda/jackndda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Hello my name is Jack :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Badges
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Godot](https://img.shields.io/badge/-Godot-black?style=flat-square&logo=godotengine)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+## Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackndda&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackndda&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jackndda&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackndda&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lochyj&theme=github_dark&utcOffset=8)![](https://github-readme-stats.vercel.app/api?username=jackndda&theme=github_dark) 
+
+<img src="https://github-trophies.vercel.app/?username=jackndda&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C,DDD,DD,D&row=2&column=9&theme=gruvbox">
+
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jackndda.jackndda" alt="visitors"/>
