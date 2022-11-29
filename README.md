@@ -1,8 +1,8 @@
-# G'day mate 
+# Welcome to my profile!
 
 ## About
 
-Hello my name is Jack :D
+My name is Jack, I am a high school 'programmer' learning Python and AI.
 
 ## Badges
 
