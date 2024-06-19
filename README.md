@@ -2,7 +2,7 @@
 
 ## About
 
-My name is Jack, I am a high school 'programmer' learning Python and AI.
+hello
 
 ## Badges
 
