@@ -1,3 +1,4 @@
+
 ## Hi! I'm Jack. 🗿
 
 Currently, I am a high school student learning Python and AI. I plan on pursuing a computer science degree in university.
